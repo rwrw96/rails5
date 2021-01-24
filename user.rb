@@ -7,3 +7,5 @@ class User
     #     @name
     # end
 end
+
+# sqlを入れないと進めないかも
